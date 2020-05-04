@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">VK Cup Unsub</string>
+
+    <string name="btn_vk_login">Войти</string>
+    <string name="btn_vk_logout">Выйти</string>
+    <string name="btn_open">Открыть</string>
+    <string name="btn_unsub">Отписаться</string>
+
+    <string name="title_unsub">Отписаться от сообществ</string>
+    <string name="desc_unsub">Коснитесь и удерживайте, чтобы увидеть информацию о сообществе</string>
+
+    <string name="title_today">сегодня</string>
+    <string name="title_yesterday">вчера</string>
+
+    <string name="snackbar_action_hide">Скрыть</string>
+
+    <string name="format_last_post">Последняя запись %1$s </string>
+
+    <string name="progress_message_unsubscribing">Отписка от сообществ</string>
+
+    <plurals name="format_followers">
+        <item quantity="zero">%1$s подписчиков</item>
+        <item quantity="one">%1$s подписчик</item>
+        <item quantity="two">%1$s подписчика</item>
+        <item quantity="few">%1$s подписчика</item>
+        <item quantity="many">%1$s подписчиков</item>
+        <item quantity="other">%1$s подписчиков</item>
+    </plurals>
+
+    <plurals name="format_friends">
+        <item quantity="zero">%1$d друзей</item>
+        <item quantity="one">%1$d друг</item>
+        <item quantity="two">%1$d друга</item>
+        <item quantity="few">%1$d друга</item>
+        <item quantity="many">%1$d друзей</item>
+        <item quantity="other">%1$d друзей</item>
+    </plurals>
+
+    <integer name="com_vk_sdk_AppId" translatable="false">7339623</integer>
+</resources>
